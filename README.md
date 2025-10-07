@@ -104,7 +104,7 @@ Wand_Synthesis_Test_Task/
 ## ⚙️ Setup & Installation
 
 ```bash
-git clone https://github.com/your-org/credibility-engine.git
+git clone https://github.com/bit-w1zard/Wand_Synthesis_Test_TasK.git
 cd Wand_Synthesis_Test_Task
 
 # (Optional) Create a virtual environment
