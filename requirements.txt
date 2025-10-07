@@ -1,0 +1,5 @@
+numpy
+sentence-transformers
+pdfplumber
+python-docx
+faiss-cpu
